@@ -8,7 +8,7 @@ const Navbar = () => {
         <p className='nav-logo'>
           SR HERO
         </p>
-        <ul className='nav-ui'>
+        <ul className='nav-menu'>
           <li>Home</li>
           <li>About</li>
           <li>Services</li>
